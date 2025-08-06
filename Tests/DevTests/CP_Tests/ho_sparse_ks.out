@@ -1,0 +1,343 @@
+
+Nucleus-Electron Coupled Self-Consistent Field method for treating nonadiabatic electron-nuclei coupling effects
+
+Initial Guess with UKS solutions
+converged SCF energy = -1.1218463223954  <S^2> = 0  2S+1 = 1
+converged SCF energy = -1.11310832554703  <S^2> = -4.4408921e-16  2S+1 = 1
+converged SCF energy = -1.131912118926  <S^2> = 6.6613381e-16  2S+1 = 1
+converged SCF energy = -1.12850316948497  <S^2> = 1.110223e-15  2S+1 = 1
+converged SCF energy = -1.13033597679954  <S^2> = -8.8817842e-16  2S+1 = 1
+converged SCF energy = -1.12114976414356  <S^2> = -4.4408921e-16  2S+1 = 1
+converged SCF energy = -0.99327304008051  <S^2> = 4.4408921e-16  2S+1 = 1
+converged SCF energy = -1.06127950626462  <S^2> = 4.4408921e-16  2S+1 = 1
+converged SCF energy = -1.10029448781786  <S^2> = 6.6613381e-16  2S+1 = 1
+converged SCF energy = -0.877224788642702  <S^2> = 0  2S+1 = 1
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254973848155265, False.
+Iteration 2  , CPHF convergence: 1.49214959330317e-19, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254973848155263, False.
+Iteration 2  , CPHF convergence: 1.49215107693447e-19, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499725085968995, False.
+Iteration 2  , CPHF convergence: 1.60060754510833e-10, False.
+Iteration 3  , CPHF convergence: 2.17577951304043e-13, False.
+Iteration 4  , CPHF convergence: 1.38834439110121e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499725084702463, False.
+Iteration 2  , CPHF convergence: 1.60041929926208e-10, False.
+Iteration 3  , CPHF convergence: 2.17596087485868e-13, False.
+Iteration 4  , CPHF convergence: 1.38834438952712e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499486226451979, False.
+Iteration 2  , CPHF convergence: 1.54496760206626e-10, False.
+Iteration 3  , CPHF convergence: 2.10066039252141e-13, False.
+Iteration 4  , CPHF convergence: 1.39625083013324e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499486225206741, False.
+Iteration 2  , CPHF convergence: 1.54478267977178e-10, False.
+Iteration 3  , CPHF convergence: 2.10083848720284e-13, False.
+Iteration 4  , CPHF convergence: 1.39625083170788e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499594621475851, False.
+Iteration 2  , CPHF convergence: 1.55137872776286e-10, False.
+Iteration 3  , CPHF convergence: 2.10555345201624e-13, False.
+Iteration 4  , CPHF convergence: 1.37194577535502e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499594620228484, False.
+Iteration 2  , CPHF convergence: 1.55119339102448e-10, False.
+Iteration 3  , CPHF convergence: 2.10573176113295e-13, False.
+Iteration 4  , CPHF convergence: 1.37194577170716e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499559811862605, False.
+Iteration 2  , CPHF convergence: 1.54931997929526e-10, False.
+Iteration 3  , CPHF convergence: 2.10361207876901e-13, False.
+Iteration 4  , CPHF convergence: 1.36885207046279e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499559810615959, False.
+Iteration 2  , CPHF convergence: 1.54913477473306e-10, False.
+Iteration 3  , CPHF convergence: 2.10379029946903e-13, False.
+Iteration 4  , CPHF convergence: 1.36885207089202e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499570709952042, False.
+Iteration 2  , CPHF convergence: 1.54993738670963e-10, False.
+Iteration 3  , CPHF convergence: 2.10418700819145e-13, False.
+Iteration 4  , CPHF convergence: 1.3682809512426e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499570708705186, False.
+Iteration 2  , CPHF convergence: 1.54975214238477e-10, False.
+Iteration 3  , CPHF convergence: 2.10436525524448e-13, False.
+Iteration 4  , CPHF convergence: 1.36828095565792e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499567268765382, False.
+Iteration 2  , CPHF convergence: 1.54975004292021e-10, False.
+Iteration 3  , CPHF convergence: 2.10400979288103e-13, False.
+Iteration 4  , CPHF convergence: 1.36823481614227e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.00049956726751859, False.
+Iteration 2  , CPHF convergence: 1.54956481068442e-10, False.
+Iteration 3  , CPHF convergence: 2.10418803173062e-13, False.
+Iteration 4  , CPHF convergence: 1.36823481356515e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499568351043697, False.
+Iteration 2  , CPHF convergence: 1.5498067514659e-10, False.
+Iteration 3  , CPHF convergence: 2.10406370687412e-13, False.
+Iteration 4  , CPHF convergence: 1.36821608988194e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499568349796885, False.
+Iteration 2  , CPHF convergence: 1.54962151555479e-10, False.
+Iteration 3  , CPHF convergence: 2.10424194825069e-13, False.
+Iteration 4  , CPHF convergence: 1.36821609020108e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254555610711548, False.
+Iteration 2  , CPHF convergence: 6.67243646256577e-11, False.
+Iteration 3  , CPHF convergence: 1.33354377359075e-13, False.
+Iteration 4  , CPHF convergence: 6.55956279229532e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254555609825583, False.
+Iteration 2  , CPHF convergence: 6.67123330621063e-11, False.
+Iteration 3  , CPHF convergence: 1.33369338909066e-13, False.
+Iteration 4  , CPHF convergence: 6.55956279792388e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254649869178669, False.
+Iteration 2  , CPHF convergence: 6.65575922455222e-11, False.
+Iteration 3  , CPHF convergence: 1.32587517820899e-13, False.
+Iteration 4  , CPHF convergence: 5.02990514529481e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254649868294261, False.
+Iteration 2  , CPHF convergence: 6.65455732106338e-11, False.
+Iteration 3  , CPHF convergence: 1.32602438741162e-13, False.
+Iteration 4  , CPHF convergence: 5.02990516031877e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254601439935558, False.
+Iteration 2  , CPHF convergence: 6.67043604396907e-11, False.
+Iteration 3  , CPHF convergence: 1.32612647243826e-13, False.
+Iteration 4  , CPHF convergence: 5.02466102950835e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254601439050454, False.
+Iteration 2  , CPHF convergence: 6.66923289747794e-11, False.
+Iteration 3  , CPHF convergence: 1.32627561141093e-13, False.
+Iteration 4  , CPHF convergence: 5.02466103300893e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254614747795788, False.
+Iteration 2  , CPHF convergence: 6.66651041262479e-11, False.
+Iteration 3  , CPHF convergence: 1.32607414508435e-13, False.
+Iteration 4  , CPHF convergence: 5.02356690299382e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254614746910871, False.
+Iteration 2  , CPHF convergence: 6.66530759114767e-11, False.
+Iteration 3  , CPHF convergence: 1.32622330597159e-13, False.
+Iteration 4  , CPHF convergence: 5.02356691188331e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254610259367321, False.
+Iteration 2  , CPHF convergence: 6.66779395586203e-11, False.
+Iteration 3  , CPHF convergence: 1.32610621222411e-13, False.
+Iteration 4  , CPHF convergence: 5.02384423596723e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254610258482342, False.
+Iteration 2  , CPHF convergence: 6.66659102795492e-11, False.
+Iteration 3  , CPHF convergence: 1.32625536718699e-13, False.
+Iteration 4  , CPHF convergence: 5.02384423250153e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499721598445073, False.
+Iteration 2  , CPHF convergence: 1.54665479470797e-10, False.
+Iteration 3  , CPHF convergence: 2.09416815891693e-13, False.
+Iteration 4  , CPHF convergence: 1.38783665080969e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499721597199508, False.
+Iteration 2  , CPHF convergence: 1.54646973316707e-10, False.
+Iteration 3  , CPHF convergence: 2.09434599413262e-13, False.
+Iteration 4  , CPHF convergence: 1.38783665221755e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499485128389443, False.
+Iteration 2  , CPHF convergence: 1.55084487367629e-10, False.
+Iteration 3  , CPHF convergence: 2.10342988787474e-13, False.
+Iteration 4  , CPHF convergence: 1.39637740151175e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.00049948512714233, False.
+Iteration 2  , CPHF convergence: 1.55065958995097e-10, False.
+Iteration 3  , CPHF convergence: 2.10360804137607e-13, False.
+Iteration 4  , CPHF convergence: 1.39637739914876e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254565555934489, False.
+Iteration 2  , CPHF convergence: 6.66951382682942e-11, False.
+Iteration 3  , CPHF convergence: 1.33351727617063e-13, False.
+Iteration 4  , CPHF convergence: 6.5434319735126e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254565555048662, False.
+Iteration 2  , CPHF convergence: 6.66831091178771e-11, False.
+Iteration 3  , CPHF convergence: 1.33366690925726e-13, False.
+Iteration 4  , CPHF convergence: 6.543431984286e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499794988683073, False.
+Iteration 2  , CPHF convergence: 1.54571992010466e-10, False.
+Iteration 3  , CPHF convergence: 2.09476435245822e-13, False.
+Iteration 4  , CPHF convergence: 1.35543231743754e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499794987437769, False.
+Iteration 2  , CPHF convergence: 1.54553490208576e-10, False.
+Iteration 3  , CPHF convergence: 2.09494226747354e-13, False.
+Iteration 4  , CPHF convergence: 1.35543231959822e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499461272304615, False.
+Iteration 2  , CPHF convergence: 1.55115027663934e-10, False.
+Iteration 3  , CPHF convergence: 2.10338021247796e-13, False.
+Iteration 4  , CPHF convergence: 1.39237442748478e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499461271057424, False.
+Iteration 2  , CPHF convergence: 1.5509649788852e-10, False.
+Iteration 3  , CPHF convergence: 2.10355834795934e-13, False.
+Iteration 4  , CPHF convergence: 1.39237443194319e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.00049960240374488, False.
+Iteration 2  , CPHF convergence: 1.54936212701195e-10, False.
+Iteration 3  , CPHF convergence: 2.10412699488983e-13, False.
+Iteration 4  , CPHF convergence: 1.3712951204871e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499602402498192, False.
+Iteration 2  , CPHF convergence: 1.54917691167005e-10, False.
+Iteration 3  , CPHF convergence: 2.1043052617444e-13, False.
+Iteration 4  , CPHF convergence: 1.37129512127338e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499557349664987, False.
+Iteration 2  , CPHF convergence: 1.54992373925188e-10, False.
+Iteration 3  , CPHF convergence: 2.10402458339475e-13, False.
+Iteration 4  , CPHF convergence: 1.36879472119964e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499557348418138, False.
+Iteration 2  , CPHF convergence: 1.5497384983573e-10, False.
+Iteration 3  , CPHF convergence: 2.10420281591279e-13, False.
+Iteration 4  , CPHF convergence: 1.36879472512574e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499571483880294, False.
+Iteration 2  , CPHF convergence: 1.54975505597108e-10, False.
+Iteration 3  , CPHF convergence: 2.10406222524839e-13, False.
+Iteration 4  , CPHF convergence: 1.36826089717293e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.0004995714826335, False.
+Iteration 2  , CPHF convergence: 1.5495698226136e-10, False.
+Iteration 3  , CPHF convergence: 2.10424046874997e-13, False.
+Iteration 4  , CPHF convergence: 1.36826089818294e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.00049956702476691, False.
+Iteration 2  , CPHF convergence: 1.54980506062331e-10, False.
+Iteration 3  , CPHF convergence: 2.10404726835592e-13, False.
+Iteration 4  , CPHF convergence: 1.36823549344584e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499567023520104, False.
+Iteration 2  , CPHF convergence: 1.54961982506303e-10, False.
+Iteration 3  , CPHF convergence: 2.10422550826815e-13, False.
+Iteration 4  , CPHF convergence: 1.36823549730248e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499568427861115, False.
+Iteration 2  , CPHF convergence: 1.5497901498126e-10, False.
+Iteration 3  , CPHF convergence: 2.10405242639421e-13, False.
+Iteration 4  , CPHF convergence: 1.36821505211816e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499568426614307, False.
+Iteration 2  , CPHF convergence: 1.54960491489759e-10, False.
+Iteration 3  , CPHF convergence: 2.10423066745393e-13, False.
+Iteration 4  , CPHF convergence: 1.36821505884959e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499567985825218, False.
+Iteration 2  , CPHF convergence: 1.54979458095876e-10, False.
+Iteration 3  , CPHF convergence: 2.10405057883877e-13, False.
+Iteration 4  , CPHF convergence: 1.36821730874707e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499567984578408, False.
+Iteration 2  , CPHF convergence: 1.54960934586231e-10, False.
+Iteration 3  , CPHF convergence: 2.10422881953661e-13, False.
+Iteration 4  , CPHF convergence: 1.36821730657141e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499568125005881, False.
+Iteration 2  , CPHF convergence: 1.54979326429726e-10, False.
+Iteration 3  , CPHF convergence: 2.10405121330211e-13, False.
+Iteration 4  , CPHF convergence: 1.36821598193118e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499568123759076, False.
+Iteration 2  , CPHF convergence: 1.54960802925029e-10, False.
+Iteration 3  , CPHF convergence: 2.10422945411077e-13, False.
+Iteration 4  , CPHF convergence: 1.3682159855521e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499568081171326, False.
+Iteration 2  , CPHF convergence: 1.54979365507256e-10, False.
+Iteration 3  , CPHF convergence: 2.10405099514474e-13, False.
+Iteration 4  , CPHF convergence: 1.36821630892909e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499568079924517, False.
+Iteration 2  , CPHF convergence: 1.54960842002379e-10, False.
+Iteration 3  , CPHF convergence: 2.10422923593243e-13, False.
+Iteration 4  , CPHF convergence: 1.36821630949872e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000254555644753287, False.
+Iteration 2  , CPHF convergence: 6.67246561506405e-11, False.
+Iteration 3  , CPHF convergence: 1.33354697179906e-13, False.
+Iteration 4  , CPHF convergence: 6.55956127629749e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.00025455564386732, False.
+Iteration 2  , CPHF convergence: 6.67126245597751e-11, False.
+Iteration 3  , CPHF convergence: 1.33369658749117e-13, False.
+Iteration 4  , CPHF convergence: 6.55956128282384e-22, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499803358401247, False.
+Iteration 2  , CPHF convergence: 1.54561752240479e-10, False.
+Iteration 3  , CPHF convergence: 2.09478422786026e-13, False.
+Iteration 4  , CPHF convergence: 1.35466465936764e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499803357155977, False.
+Iteration 2  , CPHF convergence: 1.54543250902947e-10, False.
+Iteration 3  , CPHF convergence: 2.0949621493015e-13, False.
+Iteration 4  , CPHF convergence: 1.35466466054072e-21, True.
+******** Entering CPHF Iteration *********
+Iteration 1  , CPHF convergence: 0.000499458621042403, False.
+Iteration 2  , CPHF convergence: 1.55118049527461e-10, False.
+Iteration 3  , CPHF convergence: 2.10337143675411e-13, False.
+Iteration 4  , CPHF convergence: 1.39230395595149e-21, True.
+******** Entering CPHF Iteration *********
+
+Initial UKS PES
+Potential Energy Surface
+[-0.87722479 -0.99327304 -1.06127951 -1.10029449 -1.12114976 -1.13033598
+ -1.13191212 -1.12850317 -1.12184632 -1.11310833]
+Contribution from Core Hamiltonian
+[-3.09130472 -2.96077954 -2.83911333 -2.72658043 -2.62295453 -2.52773987
+ -2.44032717 -2.36007476 -2.28634206 -2.21850646]
+########  Contribution from Two-Electron Integrals  ########
+[0.81994543 0.78277168 0.7478092  0.71523247 0.68508504 0.65731557
+ 0.63181129 0.60842147 0.58697168 0.56727462]
+########  Contribution from nuclear repulsion  ########
+[1.39413451 1.18473482 1.03002462 0.91105347 0.81671972 0.74008832
+ 0.67660376 0.62315012 0.57752406 0.53812351]
+Nuclear gradient at grid points
+[ 5.28807184  3.96970583  2.64763554  1.32408528  0.         -1.32408528
+ -2.64763554 -3.96970583 -5.28807184 -6.59675456]
+Nuclear wavefunction
+[1.00304431 1.26486791 1.4927657  1.64876792 1.70431091 1.64876792
+ 1.4927657  1.26486791 1.00304431 0.74441732]
+
+******** Entering NECSCF Cycle *********
+NECSCF Potential Energy Surface
+[-0.87730822 -0.99327377 -1.06127978 -1.10029455 -1.12114976 -1.13033601
+ -1.13191223 -1.12850334 -1.1218465  -1.11310845]
+Number of micro iterations at each grid point:
+[31  6  5  4  2  3  4  4  4  4]
+
+******************* NECSCF Results Summary *******************
+NECSCF convergence is False
+Final Potential Energy Surface
+[-0.87730822 -0.99327377 -1.06127978 -1.10029455 -1.12114976 -1.13033601
+ -1.13191223 -1.12850334 -1.1218465  -1.11310845]
+Contribution from Core Hamiltonian
+[-3.09139467 -2.96078044 -2.83911369 -2.72658051 -2.62295452 -2.52773993
+ -2.4403274  -2.36007523 -2.2863428  -2.21850747]
+########  Contribution from Two-Electron Integrals  ########
+[0.81995109 0.78277154 0.74780914 0.71523246 0.68508503 0.65731556
+ 0.63181129 0.60842148 0.58697172 0.56727471]
+########  Contribution from nucleus-electron coupling  ########
+[8.51870700e-07 3.03483161e-07 1.35175005e-07 3.37559210e-08
+ 0.00000000e+00 3.34337342e-08 1.32692785e-07 2.95644230e-07
+ 5.19205858e-07 7.98467572e-07]
+NE coupling:
+ [8.51870700e-07 3.03483161e-07 1.35175005e-07 3.37559210e-08
+ 0.00000000e+00 3.34337342e-08 1.32692785e-07 2.95644230e-07
+ 5.19205858e-07 7.98467572e-07]
